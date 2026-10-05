@@ -4,133 +4,137 @@
 
 �
 ￼
-�
 ANIL KUMAR OJHA
-
+SAP SUCCESSFACTORS CONSULTANT
+Employee Central | Onboarding 2.0 | Time Off | Talent Intelligence Hub | Reporting
 �
-Senior SAP SuccessFactors Consultant · HR Technology · Solution Delivery
+
 
 �
 ￼ ￼ ￼ 
-
-�
-ONBOARDING 2.0 · EMPLOYEE CENTRAL · TIME OFF · TIH · REPORTING
-
 �
 
-👋 PROFILE
-I am a Senior SAP SuccessFactors Consultant focused on designing and delivering HR technology solutions across the SAP SuccessFactors ecosystem.
-My work sits at the intersection of functional consulting, solution design, configuration, business rules, integrations, reporting and delivery leadership.
-I enjoy taking complex HR requirements and turning them into practical, maintainable SuccessFactors solutions.
-🧭 SAP SUCCESSFACTORS EXPERTISE
+ABOUT ME
+I am a Senior SAP SuccessFactors Consultant focused on HR technology solution design, configuration, integration, reporting and production delivery.
+I work across the SuccessFactors ecosystem with a strong focus on turning complex HR requirements into simple, scalable and maintainable solutions.
+Core domains: Employee Central, Onboarding 2.0, Time Off, Talent Intelligence Hub, People Analytics, Reporting, RBP and Integration Center.
+SAP SUCCESSFACTORS
 �
 
-🟦 Employee Central
+EMPLOYEE CENTRAL
 Employee Central Core
-Job Information & Data Models
+Job Information
+Data Models
 MDF Objects
 Business Rules
 Workflows
 Position Management
-RBP & Target Groups
+RBP and Target Groups
 �
 
-🟩 Onboarding 2.0
-New Hire & Rehire
+ONBOARDING 2.0
+New Hire and Rehire
 Onboarding Processes
 Custom Forms
 Compliance
 Document Generation
-Integration
 Business Rules
-Onboarding Data & Reporting
+Integrations
+Onboarding Reporting
 �
 
 �
 
-🟨 Time Management
+TIME MANAGEMENT
 Time Off
 Time Profiles
 Holiday Calendars
 Work Schedules
 Accrual Rules
-Seniority & Proration
+Seniority and Proration
 Take Rules
 Eligibility Rules
 �
 
-🟪 Talent & Analytics
+TALENT AND ANALYTICS
 Talent Intelligence Hub
-Skills & Skills Graph
+Skills and Skills Graph
 People Analytics
 Story Reports
 Canvas Reports
 Integration Center
-Power BI Data Solutions
+Power BI Solutions
 �
 
-⚙️ SOLUTION DELIVERY
+SOLUTION DELIVERY
 �
 
-DISCOVER → DEFINE → DESIGN → CONFIGURE → INTEGRATE → TEST → DELIVER → OPTIMIZE
+�
+￼ ￼ ￼ ￼ ￼ ￼
 �
 
-I work across the complete solution lifecycle, from requirement discovery and solution design through configuration, testing, deployment, production support and continuous improvement.
-🚀 WHAT I BUILD
-Area
-Focus
-🧩 Business Rules
-Complex HR logic, eligibility, workflows, accruals and validations
-⏱️ Time Off Solutions
-Accrual frameworks, seniority, proration, holidays and take rules
-👤 Onboarding
-New hire, rehire, forms, compliance and integration scenarios
-📊 Reporting
-Story, Canvas, People Analytics and operational reporting
-🔐 Security
-RBP, target groups, permissions and access design
-🔄 Integrations
-Integration Center, APIs, SFTP and downstream data flows
-🧠 Talent Intelligence
-Skills, attributes, Skills Graph and talent capabilities
-🤖 Automation
-HR technology automation, data validation and repeatable delivery patterns
-🛠️ TECHNOLOGY STACK
-�
-￼ ￼ ￼ ￼ ￼ 
-
-�
-￼ ￼ ￼ ￼ ￼ 
-
-📌 FEATURED SAP DOMAINS
 �
 
-   
+
 �
 
-📚 CERTIFICATION & CONTINUOUS LEARNING
-I continuously expand my SuccessFactors expertise across Employee Central, Position Management, Onboarding, Time Management, Reporting and Talent Intelligence.
-Current focus: deepening solution architecture, leadership and cross-module SuccessFactors capabilities.
-📈 GITHUB ACTIVITY
+Functional Consulting + Solution Design + Configuration + Integration + Reporting + Delivery
 �
+
+WHAT I WORK WITH
+�
+
+�
+￼ ￼ ￼ ￼
+
+
+
+�
+￼ ￼ ￼ ￼
+
+
 
 �
 ￼ ￼
 �
 
-�
-￼ 
-
-🌐 EXPLORE MY WORK
+FEATURED WORK
 �
 
- 
+HR TECHNOLOGY SOLUTIONS
+Designing SuccessFactors solutions across:
+Employee Central
+Onboarding
+Time Off
+Talent Intelligence
+Reporting
+Security
+�
+
+AUTOMATION AND REPORTING
+Building practical solutions for:
+Business Rule validation
+Data analysis
+Reporting
+Integration
+Operational dashboards
+HR process automation
+�
+
+CURRENT FOCUS
 �
 
 �
+￼ ￼ ￼ ￼
+�
 
-SAP SuccessFactors · HR Technology · Solution Delivery
-Building practical HR technology solutions from complex business requirements.
+GITHUB ACTIVITY
+�
+
+�
+￼
+�
+￼
 �
 
 
@@ -138,4 +142,20 @@ Building practical HR technology solutions from complex business requirements.
 ￼
 �
 
+EXPLORE
+�
+
+�
+￼ ￼ 
+
+
+
+�
+￼
+�
+
+�
+
+SAP SuccessFactors | HR Technology | Solution Delivery
+Building practical HR technology solutions from complex business requirements.
 �
