@@ -1,67 +1,87 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Anil Kumar Ojha - Senior SAP SuccessFactors Consultant" width="100%">
+<img src="./assets/hero.svg" alt="Anil Kumar Ojha - SAP SuccessFactors HR Technology" width="100%">
 
 <br>
 
-<a href="https://ojhaanil.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-0FAAFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/ojhaanil/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://ojhaanil.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-00AEEF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/anilkumarojhasapsf/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/ojhaanil?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/8%2B%20YEARS%20HR%20TECHNOLOGY-111827?style=flat-square" alt="Experience">
-<img src="https://img.shields.io/badge/SAP%20SUCCESSFACTORS-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP SuccessFactors">
-<img src="https://img.shields.io/badge/SOLUTION%20DELIVERY-111827?style=flat-square" alt="Solution Delivery">
+<img src="https://img.shields.io/badge/8%2B%20YEARS%20HR%20TECHNOLOGY-111827?style=flat-square" alt="8+ years HR technology">
+<img src="https://img.shields.io/badge/5%2B%20YEARS%20SAP%20SUCCESSFACTORS-00AEEF?style=flat-square&logo=sap&logoColor=white" alt="5+ years SAP SuccessFactors">
+<img src="https://img.shields.io/badge/SOLUTION%20DESIGN%20%26%20DELIVERY-111827?style=flat-square" alt="Solution design and delivery">
 
 </div>
 
 ---
 
-<h2 align="center">SAP SUCCESSFACTORS | HR TECHNOLOGY | SOLUTION DELIVERY</h2>
+## SAP SUCCESSFACTORS | HR TECHNOLOGY | SOLUTION DELIVERY
 
-<p align="center">
-I design, configure and deliver practical HR technology solutions across the SAP SuccessFactors ecosystem.
-</p>
+I design, configure and deliver practical HR technology solutions across the SAP SuccessFactors ecosystem, with a focus on scalable configuration, clean security, reliable integrations and business-ready reporting.
 
-<br>
+My approach is simple: **understand the process, design the solution, control the dependencies, and deliver something that can be supported in production.**
+
+---
+
+## CORE CAPABILITIES
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### CORE EXPERTISE
+### EMPLOYEE CENTRAL
 
-**Employee Central**
-<br>Core HR | Job Information | Data Models | MDF | Business Rules | Workflows | RBP
+- Core HR and Job Information
+- Data Models and MDF
+- Business Rules and Workflows
+- Employee Lifecycle Events
+- RBP and Target Groups
 
-<br>
+### ONBOARDING 2.0
 
-**Onboarding 2.0**
-<br>New Hire | Rehire | Forms | Compliance | Documents | Integrations | Reporting
+- New Hire and Rehire
+- Custom Forms and Compliance
+- Document and E-Signature flows
+- Onboarding integrations
+- Operational reporting
 
-<br>
+### TIME MANAGEMENT
 
-**Time Management**
-<br>Time Off | Time Profiles | Holidays | Work Schedules | Accruals | Proration | Take Rules
+- Time Off configuration
+- Time Profiles and Work Schedules
+- Holiday Calendars
+- Accruals and Eligibility
+- Seniority and Proration
+- Validation and Take Rules
 
 </td>
 <td width="50%" valign="top">
 
-### TALENT AND ANALYTICS
+### TALENT INTELLIGENCE HUB
 
-**Talent Intelligence Hub**
-<br>Skills | Skills Graph | Attributes | Talent Capabilities
+- Skills and Skills Graph
+- Attributes and capabilities
+- Manager and employee workflows
+- Talent data foundations
 
-<br>
+### REPORTING AND ANALYTICS
 
-**Reporting and Analytics**
-<br>Story | Canvas | People Analytics | Operational Reporting
+- Story Reports
+- Canvas Reports
+- People Analytics
+- Operational reporting
+- Power BI-ready datasets
 
-<br>
+### INTEGRATION AND AUTOMATION
 
-**Integration and Automation**
-<br>Integration Center | APIs | SFTP | Data Validation | HR Automation
+- Integration Center
+- SFTP and downstream data
+- API-oriented solution thinking
+- Data validation and reconciliation
+- HR process automation
 
 </td>
 </tr>
@@ -69,63 +89,95 @@ I design, configure and deliver practical HR technology solutions across the SAP
 
 ---
 
-## SOLUTION ARCHITECTURE
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01%20DISCOVER-111827?style=for-the-badge" alt="Discover">
-<img src="https://img.shields.io/badge/02%20DEFINE-111827?style=for-the-badge" alt="Define">
-<img src="https://img.shields.io/badge/03%20DESIGN-111827?style=for-the-badge" alt="Design">
-<img src="https://img.shields.io/badge/04%20CONFIGURE-111827?style=for-the-badge" alt="Configure">
-<img src="https://img.shields.io/badge/05%20INTEGRATE-111827?style=for-the-badge" alt="Integrate">
-<img src="https://img.shields.io/badge/06%20TEST-111827?style=for-the-badge" alt="Test">
-<img src="https://img.shields.io/badge/07%20DELIVER-0FAAFF?style=for-the-badge" alt="Deliver">
-
-</div>
-
-<p align="center">
-<strong>Requirement discovery to production delivery, with maintainability and operational impact in mind.</strong>
-</p>
-
----
-
-## WHAT I SOLVE
+## SOLUTION ARCHITECTURE IN PRACTICE
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### HR PROCESS DESIGN
+### 01 | EMPLOYEE LIFECYCLE
 
-- Hire and Rehire
-- Employee lifecycle
-- Time Off frameworks
-- Eligibility and validations
-- Compliance workflows
+**Hire -> Onboarding -> EC -> Time -> Reporting**
+
+Designing connected HR processes instead of isolated module configurations.
 
 </td>
 <td width="33%" valign="top">
 
-### RULES AND SECURITY
+### 02 | TIME MANAGEMENT
 
-- Complex Business Rules
-- Accrual logic
-- Seniority and proration
-- RBP design
-- Target Groups
-- Workflow routing
+**Eligibility -> Accrual -> Proration -> Validation -> Booking**
+
+Building rules that reflect real HR policy and remain maintainable.
 
 </td>
 <td width="33%" valign="top">
 
-### DATA AND INSIGHTS
+### 03 | HR SECURITY
 
-- Story Reports
-- Canvas Reports
-- People Analytics
-- Integration Center
-- Power BI datasets
-- Operational dashboards
+**RBP -> Target Groups -> Dynamic Access -> Governance**
+
+Balancing business access with controlled and supportable security design.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 04 | HR DATA AND INSIGHTS
+
+**EC Data -> Reporting -> Integration -> Analytics**
+
+Turning transactional HR data into operationally useful information.
+
+</td>
+<td width="50%" valign="top">
+
+### 05 | PRODUCTION DELIVERY
+
+**Requirement -> Design -> Configure -> Test -> Cutover -> Support**
+
+Keeping cross-module dependencies, regression impact and production readiness in view.
+
+</td>
+</tr>
+</table>
+
+---
+
+## WHAT I BRING
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**FUNCTIONAL DEPTH**
+
+Translate HR requirements into practical SuccessFactors configuration.
+
+</td>
+<td width="25%" valign="top">
+
+**TECHNICAL THINKING**
+
+Rules, RBP, integrations, reporting and cross-module dependencies.
+
+</td>
+<td width="25%" valign="top">
+
+**DELIVERY OWNERSHIP**
+
+From requirement discovery through testing, cutover and production support.
+
+</td>
+<td width="25%" valign="top">
+
+**PROBLEM SOLVING**
+
+Break complex HR scenarios into controlled, supportable solutions.
 
 </td>
 </tr>
@@ -137,10 +189,10 @@ I design, configure and deliver practical HR technology solutions across the SAP
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SAP%20SUCCESSFACTORS-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP SuccessFactors">
+<img src="https://img.shields.io/badge/SAP%20SUCCESSFACTORS-00AEEF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP SuccessFactors">
 <img src="https://img.shields.io/badge/EMPLOYEE%20CENTRAL-111827?style=for-the-badge" alt="Employee Central">
 <img src="https://img.shields.io/badge/ONBOARDING%202.0-111827?style=for-the-badge" alt="Onboarding 2.0">
-<img src="https://img.shields.io/badge/TIME%20OFF-111827?style=for-the-badge" alt="Time Off">
+<img src="https://img.shields.io/badge/TIME%20MANAGEMENT-111827?style=for-the-badge" alt="Time Management">
 
 <br><br>
 
@@ -151,7 +203,8 @@ I design, configure and deliver practical HR technology solutions across the SAP
 
 <br><br>
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/BUSINESS%20RULES-111827?style=for-the-badge" alt="Business Rules">
+<img src="https://img.shields.io/badge/RBP%20%26%20TARGET%20GROUPS-111827?style=for-the-badge" alt="RBP and Target Groups">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
 </div>
@@ -160,18 +213,14 @@ I design, configure and deliver practical HR technology solutions across the SAP
 
 ## SELECTED SOLUTION AREAS
 
-<div align="center">
-
 | DOMAIN | SOLUTION FOCUS |
 |:---|:---|
-| **Employee Central** | Core HR, Job Information, MDF, Rules, Workflows, RBP |
+| **Employee Central** | Core HR, Job Information, MDF, Business Rules, Workflows, RBP |
 | **Onboarding 2.0** | New Hire, Rehire, Forms, Compliance, Documents, Integrations |
-| **Time Off** | Accruals, Seniority, Proration, Eligibility, Holidays, Take Rules |
-| **Talent Intelligence** | Skills, Skills Graph, Attributes, Talent Capabilities |
+| **Time Management** | Accruals, Seniority, Proration, Eligibility, Holidays, Take Rules |
+| **Talent Intelligence Hub** | Skills, Skills Graph, Attributes, Talent Capabilities |
 | **Reporting** | Story, Canvas, People Analytics, Operational Reporting |
-| **Integration** | Integration Center, APIs, SFTP, Downstream Data |
-
-</div>
+| **Integration** | Integration Center, SFTP, APIs, Downstream Data |
 
 ---
 
@@ -179,41 +228,41 @@ I design, configure and deliver practical HR technology solutions across the SAP
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SOLUTION%20ARCHITECTURE-0FAAFF?style=for-the-badge" alt="Solution Architecture">
-<img src="https://img.shields.io/badge/CROSS--MODULE%20SUCCESSFACTORS-111827?style=for-the-badge" alt="Cross Module SuccessFactors">
+<img src="https://img.shields.io/badge/SOLUTION%20DESIGN-00AEEF?style=for-the-badge" alt="Solution Design">
+<img src="https://img.shields.io/badge/CROSS--MODULE%20ARCHITECTURE-111827?style=for-the-badge" alt="Cross-module architecture">
 <img src="https://img.shields.io/badge/LEADERSHIP-111827?style=for-the-badge" alt="Leadership">
-<img src="https://img.shields.io/badge/CONTINUOUS%20LEARNING-111827?style=for-the-badge" alt="Continuous Learning">
+<img src="https://img.shields.io/badge/CONTINUOUS%20LEARNING-111827?style=for-the-badge" alt="Continuous learning">
 
 </div>
 
+I am especially interested in **solution architecture, cross-module SuccessFactors design, automation, HR data and analytics, and technical leadership.**
+
 ---
 
-## GITHUB ACTIVITY
+## GITHUB
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ojhaanil&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&hide_title=true" height="165" alt="GitHub statistics">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ojhaanil&hide_border=true&theme=transparent" height="165" alt="GitHub streak">
-
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojhaanil&layout=compact&hide_border=true&theme=transparent" height="150" alt="Top languages">
+<a href="https://github.com/ojhaanil?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
 
 </div>
 
 ---
 
-## EXPLORE MY WORK
+## CONNECT
 
 <div align="center">
 
-<a href="https://ojhaanil.github.io/"><img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-0FAAFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio"></a>
-<a href="https://github.com/ojhaanil?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"></a>
+<a href="https://ojhaanil.github.io/"><img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-00AEEF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio"></a>
+<a href="https://www.linkedin.com/in/anilkumarojhasapsf/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ojhaanil&style=flat-square" alt="Profile views">
+**Open to SAP SuccessFactors solution design, consulting, architecture and leadership opportunities.**
 
 </div>
 
@@ -223,6 +272,6 @@ I design, configure and deliver practical HR technology solutions across the SAP
 
 ### ANIL KUMAR OJHA
 
-**SAP SuccessFactors Consultant | HR Technology | Solution Delivery**
+**SAP SuccessFactors | HR Technology | Solution Delivery**
 
 </div>
