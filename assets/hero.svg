@@ -1,38 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Anil Kumar Ojha - SAP SuccessFactors Consultant">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Anil Kumar Ojha - SAP SuccessFactors HR Technology">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#070B12"/>
-      <stop offset="100%" stop-color="#101827"/>
+      <stop offset="0%" stop-color="#05080D"/>
+      <stop offset="55%" stop-color="#0A1220"/>
+      <stop offset="100%" stop-color="#0E1B2C"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#0FAAFF"/>
-      <stop offset="100%" stop-color="#5BC8FF"/>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00AEEF"/>
+      <stop offset="100%" stop-color="#69D2FF"/>
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="7" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
 
-  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
-  <circle cx="1050" cy="80" r="170" fill="#0FAAFF" opacity=".07"/>
-  <circle cx="1120" cy="260" r="130" fill="#0FAAFF" opacity=".05"/>
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <circle cx="1080" cy="75" r="210" fill="#00AEEF" opacity=".055"/>
+  <circle cx="1150" cy="315" r="170" fill="#00AEEF" opacity=".035"/>
 
-  <path d="M0 258 C180 205 280 292 450 238 S760 165 1200 215" fill="none" stroke="#0FAAFF" stroke-opacity=".18" stroke-width="2"/>
-  <path d="M0 276 C210 225 310 308 500 255 S790 190 1200 230" fill="none" stroke="#0FAAFF" stroke-opacity=".10" stroke-width="2"/>
+  <path d="M0 292 C170 235 300 326 470 270 S805 205 1200 255" fill="none" stroke="#00AEEF" stroke-opacity=".17" stroke-width="2"/>
+  <path d="M0 314 C190 255 320 344 515 292 S850 232 1200 276" fill="none" stroke="#00AEEF" stroke-opacity=".08" stroke-width="2"/>
 
-  <rect x="70" y="58" width="6" height="178" rx="3" fill="url(#accent)" filter="url(#glow)"/>
+  <rect x="70" y="54" width="6" height="236" rx="3" fill="url(#blue)" filter="url(#softGlow)"/>
 
-  <text x="105" y="105" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing="2">ANIL KUMAR OJHA</text>
-  <text x="108" y="151" fill="#B8C4D6" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="1.2">SENIOR SAP SUCCESSFACTORS CONSULTANT</text>
-  <text x="108" y="190" fill="#0FAAFF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1">EMPLOYEE CENTRAL  |  ONBOARDING 2.0  |  TIME OFF</text>
-  <text x="108" y="219" fill="#0FAAFF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1">TALENT INTELLIGENCE HUB  |  REPORTING</text>
+  <text x="108" y="101" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700" letter-spacing="2">ANIL KUMAR OJHA</text>
+  <text x="110" y="143" fill="#AEBED2" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="1.5">SAP SUCCESSFACTORS | HR TECHNOLOGY</text>
 
-  <g transform="translate(890 92)">
-    <rect width="210" height="132" rx="16" fill="#0B1220" stroke="#26364D"/>
-    <text x="24" y="35" fill="#7F91AA" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">HR TECHNOLOGY</text>
-    <text x="24" y="70" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">SAP</text>
-    <text x="24" y="98" fill="#B8C4D6" font-family="Arial, Helvetica, sans-serif" font-size="14">Solution Design</text>
-    <text x="24" y="118" fill="#B8C4D6" font-family="Arial, Helvetica, sans-serif" font-size="14">Configuration + Delivery</text>
+  <text x="110" y="184" fill="#00AEEF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1">DESIGNING SCALABLE HR SOLUTIONS</text>
+  <text x="110" y="214" fill="#D7E2EE" font-family="Arial, Helvetica, sans-serif" font-size="15">EMPLOYEE CENTRAL  |  ONBOARDING 2.0  |  TIME MANAGEMENT</text>
+  <text x="110" y="239" fill="#D7E2EE" font-family="Arial, Helvetica, sans-serif" font-size="15">TALENT INTELLIGENCE HUB  |  REPORTING  |  INTEGRATION</text>
+
+  <g transform="translate(850 88)">
+    <rect width="270" height="150" rx="18" fill="#08111D" stroke="#263B53"/>
+    <text x="24" y="34" fill="#71859D" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2.2">DELIVERY MODEL</text>
+    <text x="24" y="67" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">DISCOVER</text>
+    <text x="104" y="67" fill="#4A6B88" font-family="Arial, Helvetica, sans-serif" font-size="18">-></text>
+    <text x="130" y="67" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">DESIGN</text>
+    <text x="24" y="96" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">CONFIGURE</text>
+    <text x="130" y="96" fill="#4A6B88" font-family="Arial, Helvetica, sans-serif" font-size="18">-></text>
+    <text x="157" y="96" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">INTEGRATE</text>
+    <text x="24" y="125" fill="#00AEEF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">TEST</text>
+    <text x="82" y="125" fill="#4A6B88" font-family="Arial, Helvetica, sans-serif" font-size="18">-></text>
+    <text x="108" y="125" fill="#00AEEF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">DELIVER</text>
   </g>
 </svg>
